@@ -3,3 +3,4 @@ Apples
 Bananas
 Strawberries
 Dates
+Cherries
