@@ -8,3 +8,6 @@ Avocados
 Damson plum
 Elderberry
 Eggfruit
+GTX1650 4Gb
+Intel i9-10900K
+....
