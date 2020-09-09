@@ -2,5 +2,9 @@ Apricots
 Bananas
 Avocados
 Eggs
+<<<<<<< HEAD
 Cherries
 Dates
+=======
+Bananas
+>>>>>>> 2e8be3ea4052b646eb85d333bb8f38ed46b403dd
