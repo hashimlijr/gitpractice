@@ -8,6 +8,11 @@ public class Main {
 		System.out.println(MyMath.countMin(array));
 		System.out.println(MyMath.abs(-5));
 		System.out.println(MyMath.isPrime(999983));
+		System.out.println(MyMath.randint(1, 10));
+		System.out.println(MyMath.randdouble(3, 5));
+		
+		
+		
 	}
 
 }

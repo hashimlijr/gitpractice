@@ -187,6 +187,11 @@ public class MyMath
 		return true;
 	}
 	
+	public static int randint(int min, int max)
+	{
+		return (int)((Math.random() * max) + min);
+	}
+	
 	
 	
 }
