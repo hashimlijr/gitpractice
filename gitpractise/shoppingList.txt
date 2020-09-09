@@ -2,3 +2,4 @@ Apricots
 Apples
 Bananas
 Strawberries
+Dates
