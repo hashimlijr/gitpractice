@@ -38,6 +38,21 @@ public class MyMath
         return result;
 	}
 	
+	public static int lcm(int a, int b)
+	{
+		return (a * b) / (gcd(a,b));
+	}
+	
+	public static int lcm(int[] elements)
+	{
+        int result = elements[0];
+        
+        for(int i = 1; i < elements.length; i++)
+            result = lcm(result, elements[i]);
+
+        return result;
+    }
+	
 	
 	public static long sum(int[] elements)
 	{
@@ -191,6 +206,7 @@ public class MyMath
 	{
 		return (int)((Math.random() * max) + min);
 	}
+	
 	
 	
 	
