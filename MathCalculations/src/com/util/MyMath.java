@@ -2,7 +2,7 @@ package com.util;
 
 import java.util.*;
 
-public class MyMatch 
+public class MyMath 
 {
 	static int gcd(int a, int b) 
 	{
