@@ -7,6 +7,7 @@ public class Main {
 		System.out.println(MyMath.count(4, array));
 		System.out.println(MyMath.countMin(array));
 		System.out.println(MyMath.abs(-5));
+		System.out.println(MyMath.isPrime(999983));
 	}
 
 }

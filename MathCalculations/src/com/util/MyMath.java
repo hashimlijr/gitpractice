@@ -164,5 +164,29 @@ public class MyMath
 		return (value < 0) ? -value : value;
 	}
 	
+	public static boolean isEven(int value)
+	{
+		return (value % 2 == 0) ? true : false;
+	}
+	public static boolean isEven(double value)
+	{
+		return (value % 2 == 0) ? true : false;
+	}
+	public static boolean isEven(long value)
+	{
+		return (value % 2 == 0) ? true : false;
+	}
+	
+	public static boolean isPrime(int value)
+	{
+		for(int i = 2; i <= Math.sqrt((double)value); i++)
+		{
+			if(value % i == 0)
+				return false;
+		}
+		return true;
+	}
+	
+	
 	
 }
