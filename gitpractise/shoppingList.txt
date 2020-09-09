@@ -2,3 +2,5 @@ Apricots
 Bananas
 Avocados
 Eggs
+Cherries
+Dates
